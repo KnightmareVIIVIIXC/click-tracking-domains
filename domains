@@ -1,11 +1,9 @@
-# Whitelisted domains (and their subdomains) when enabling Privacy -> Allow Affiliate & Tracking Links.
-
 7eer.net
 action.metaffiliation.com
-action.metaffiliation.com # CNAME of xht.micromania.fr
+action.metaffiliation.com 
 ad.atdmt.com
 ad.doubleclick.net
-ad.dyntracker.de # https://github.com/nextdns/click-tracking-domains/pull/7
+ad.dyntracker.de 
 adclick.g.doubleclick.net
 adservice.google.ac
 adservice.google.ad
@@ -263,7 +261,7 @@ be-go.kelkoogroup.net
 bfast.com
 br-go.kelkoogroup.net
 bs.serving-sys.com
-campaign.adobe.com # CNAME of t.emailing.monoprix.fr
+campaign.adobe.com 
 cb.sailthru.com
 cc-dt.com
 ch-go.kelkoogroup.net
@@ -272,39 +270,39 @@ cj.com
 cj.dotomi.com
 cl.exct.net
 clck.yandex.ru
-click.chp.kohls.com # Kohls.com click-thru links
+click.chp.kohls.com 
 click.cptrack.de
-click.e.krogermail.com # Kroger email marketing click through
-click.e.lowes.com # Lowe's email marketing click through
-click.e.safelite.com # SafeLite Autoglass email marketing click through
-click.e.sees.com # See's Candy email marketing click-thru
-click.e.usa.experian.com # Experian email marketing click-thru
-click.em.samsclub.com # SamsClub.com click-thru email marketing links
-click.email.jcpenney.com # JC Penney email marketing click-thru
+click.e.krogermail.com 
+click.e.lowes.com 
+click.e.safelite.com 
+click.e.sees.com 
+click.e.usa.experian.com 
+click.em.samsclub.com 
+click.email.jcpenney.com 
 click.email.sonos.com
-click.emcom.bankofamerica.com # Bank of America email marketing click-thru
-click.fidelityinvestments.com # Fidelity Investments email marketing click-thru
-click.holidayinnclubemail.com # Holiday Inn email marketing click-thru
+click.emcom.bankofamerica.com 
+click.fidelityinvestments.com 
+click.holidayinnclubemail.com 
 click.icptrack.com
-click.landsend.com # Lands' End email marketing click through
+click.landsend.com 
 click.linksynergy.com
 click.mail.macmillan.com
 click.member.americanexpress.com
-click.members.nra.org # NRA member updates email click-thru
-click.mlsend.com # MailerLite.com email marketing SaaS - clickthru tracking
+click.members.nra.org 
+click.mlsend.com 
 click.myctm.canadiantire.ca
-click.o.delta.com # Delta Airlines email marketing click-thru
+click.o.delta.com 
 click.pstmrk.it
 click.redditmail.com
-click.royalcaribbeanmarketing.com # Royal Caribbean email marketing click-thru
-click.s.kohls.com # Kohls.com click-thru links
-click.virt.s10.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s11.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s12.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s4.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s5.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s6.exacttarget.com # Click link CNAME for salesforce marketing cloud
-click.virt.s7.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.royalcaribbeanmarketing.com 
+click.s.kohls.com 
+click.virt.s10.exacttarget.com 
+click.virt.s11.exacttarget.com 
+click.virt.s12.exacttarget.com 
+click.virt.s4.exacttarget.com 
+click.virt.s5.exacttarget.com 
+click.virt.s6.exacttarget.com 
+click.virt.s7.exacttarget.com 
 clickcash.onelink.me
 clickserve.cc-dt.com
 clickserve.dartsearch.net
@@ -314,15 +312,15 @@ clkuk.tradedoubler.com
 commander1.com
 commission-junction.com
 cse3.chausport.com
-ct.impactradius.com # CNAME of goto.jet.com
-ct.klclick.com # Klaviyo email & sms marketing SaaS click-thru links (Klaviyo.com)
+ct.impactradius.com 
+ct.klclick.com 
 ct.sendgrid.net
 cts.businesswire.com
-custom.bnc.lt # CNAME of link.swa.info
-customlinks.appsflyer.com # CNAME of click.snapshat.com
-customtraffic.impactradius.com # CNAME of goto.target.com
+custom.bnc.lt 
+customlinks.appsflyer.com 
+customtraffic.impactradius.com 
 cz-go.kelkoogroup.net
-dart.l.doubleclick.net # CNAME of ad.doubleclick.net
+dart.l.doubleclick.net 
 dashboard-01.braze.com
 de-go.kelkoogroup.net
 dk-go.kelkoogroup.net
@@ -343,14 +341,14 @@ go.microsoft.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
-go.pardot.com # CNAME of goto.algolia.com
+go.pardot.com 
 go.redirectingat.com
 go.skimresources.com
 go2jump.org
 gopjn.com
 gr-go.kelkoogroup.net
-guce.advertising.com # techcrunch.com redirects to guce.advertising.com then back to techcrunch.com (2020-07-11)
-hs.eloqua.com # Oracle Eloqua landing page CNAME target
+guce.advertising.com 
+hs.eloqua.com 
 hu-go.kelkoogroup.net
 hubspotemail.net
 ie-go.kelkoogroup.net
@@ -364,16 +362,16 @@ link.epicgames.com
 link.freshmail.mx
 link.springer.com
 links.iterable.com
-links.mkt41.net # Click link CNAME for acoustic marketing platform
-links.mkt51.net # Click link CNAME for acoustic marketing platform
-links.mkt61.net # Click link CNAME for acoustic marketing platform
-links.mkt71.net # Click link CNAME for acoustic marketing platform
-links.mkt81.net # Click link CNAME for acoustic marketing platform
-links.mkt91.net # Click link CNAME for acoustic marketing platform
+links.mkt41.net 
+links.mkt51.net 
+links.mkt61.net 
+links.mkt71.net 
+links.mkt81.net 
+links.mkt91.net 
 list-manage.com
-m.exactag.com # https://github.com/nextdns/click-tracking-domains/pull/8
-media01.eu # https://github.com/nextdns/click-tracking-domains/pull/10
-mktoweb.com # Adobe MarkeTo landing page CNAME target
+m.exactag.com 
+media01.eu 
+mktoweb.com 
 mmtro.com
 monitor.clickcease.com
 mx-go.kelkoogroup.net
@@ -386,10 +384,10 @@ onenetworkdirect.net
 online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
-pagead.l.doubleclick.net # CNAME of www.googleadservices.com
+pagead.l.doubleclick.net 
 pdt.tradedoubler.com
 pepperjamnetwork.com
-pi.pardot.com # CNAME of go.pardot.com
+pi.pardot.com 
 pixel.everesttech.net
 pjatr.com
 pjtra.com
@@ -397,19 +395,19 @@ pl-go.kelkoogroup.net
 pntra.com
 pntrac.com
 pntrack.com
-post.spmailtechno.com # https://github.com/nextdns/metadata/issues/568
+post.spmailtechno.com 
 postsign.docusign.com
 prf.hn
 prism.app-us1.com
 pt-go.kelkoogroup.net
 qksrv.net
 r20.rs6.net
-rd.bizrate.com # CNAME of link.sylikes.com
-rd2szde.bizrate.com # https://github.com/nextdns/click-tracking-domains/pull/6
-rebrandlydomain.com # CNAME of go.blokada.org
+rd.bizrate.com 
+rd2szde.bizrate.com 
+rebrandlydomain.com 
 redir.tradedoubler.com
-redirect.appmetrica.yandex.com # https://github.com/nextdns/metadata/pull/745
-redirect.appmetrica.yandex.ru # https://github.com/nextdns/metadata/pull/745
+redirect.appmetrica.yandex.com 
+redirect.appmetrica.yandex.ru 
 redirect.at
 redirect.viglink.com
 redirects.tradedoubler.com
@@ -419,14 +417,14 @@ s.click.aliexpress.com
 sailthru.com
 se-go.kelkoogroup.net
 shareasale.com
-sites.hscoscdn10.net # Click link CNAME for hubspot marketing platform
-sites.hscoscdn20.net # Click link CNAME for hubspot marketing platform
-sites.hscoscdn30.net # Click link CNAME for hubspot marketing platform
-sites.hscoscdn40.net # Click link CNAME for hubspot marketing platform
+sites.hscoscdn10.net 
+sites.hscoscdn20.net 
+sites.hscoscdn30.net 
+sites.hscoscdn40.net 
 sk-go.kelkoogroup.net
 solution.weborama.fr
 solutions.tradedoubler.com
-suite15.emarsys.net # CNAME of link.wizzair.com
+suite15.emarsys.net 
 syndication.exosrv.com
 syndication.realsrv.com
 t.dripemail2.com
@@ -436,29 +434,29 @@ tag.getdrip.com
 tag.shopping-feed.com
 tags.adsafety.net
 tags.news.com.au
-target.clickfunnels.com # CNAME of demo.seamless.ai
+target.clickfunnels.com 
 target.georiot.com
-tc.tradetracker.net # https://github.com/nextdns/metadata/pull/1095
+tc.tradetracker.net 
 the-home-depot-ca.pxf.io
-thirdparty.bnc.lt # CNAME of app.sephora.com
+thirdparty.bnc.lt 
 tkqlhce.com
-track.customer.io # CNAME of email.namebase.io
+track.customer.io 
 track.effiliation.com
 track.seadform.net
-track.shoparize.com # https://github.com/nextdns/click-tracking-domains/pull/5
+track.shoparize.com 
 track.webgains.com
 trackcmp.net
 tracker.marinsm.com
 tracking.publicidees.com
-tracking.s24.com # https://github.com/nextdns/click-tracking-domains/pull/4
+tracking.s24.com 
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
-ue.flipboard.com # flipboard newsletter unsubscribe link
+ue.flipboard.com 
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
-view.virt.s7.exacttarget.com # CNAME of view.email.nzz.ch
+view.virt.s7.exacttarget.com 
 wl.spotify.com
 www.anrdoezrs.net
 www.awin1.com
